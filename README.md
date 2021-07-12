@@ -1,6 +1,5 @@
-
-# Create React App from scratch with webpack wich includes prettier and eslint scripts
-
+# React App from scratch
+`Create React App from scratch with webpack wich includes prettier and eslint scripts`
 ### Start App
 `npm run start`
 
